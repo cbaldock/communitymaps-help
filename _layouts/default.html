@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+
+<html lang="{{ layout.language }}">
+  <head>
+    <title>{{ page.title }} | {% if layout.title == nil %}Community Maps Help{% else %}{{ layout.title }}{% endif %}</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="cleartype" content="on" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+
+    <style>
+      footer {
+        padding-bottom: 24px;
+      }
+
+      p {
+        padding-bottom: 14px;
+        font-size: 125%;
+      }
+
+      ul {
+        padding-bottom: 14px;
+        font-size: 125%;
+      }
+
+      blockquote > p,
+      blockquote > ul {
+        padding-bottom: 0px;
+      }
+
+      hr {
+        padding-bottom: 14px;
+      }
+
+      img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .navbar-default {
+        margin: 0;
+        background-color: #eee;
+      }
+    </style>
+  </head>
+
+  <body>
+    <nav class="navbar navbar-default navbar-static-top">
+      <div class="container">
+        <div class="navbar-right">
+          <a type="button" href="http://new.communitymaps.org.uk" target="_blank" class="btn btn-primary navbar-btn">Community Maps</a>
+        </div>
+      </div>
+    </nav>
+
+    <header class="jumbotron">
+      <div class="container">
+        <h2 class="text-muted">
+          {% if layout.title == nil %}
+          Community Maps Help
+          {% else %}
+          {{ layout.title }}
+          {% endif %}
+        </h2>
+
+        <div class="page-header">
+          <h1>{{ page.title }}</h1>
+
+          <div class="row">
+            <p class="col-md-10 col-lg-8">{{ page.subtitle }}</p>
+          </div>
+        </div>
+
+        {% assign file = page.url | split: '/' | last %}
+        {% if file != 'index.html' and file != '404.html' %}
+        <a href="index.html" class="lead" style="text-decoration: none !important">
+          <span class="glyphicon glyphicon-arrow-left"></span>
+          <span>{% if layout.link_home == nil %}Home page{% else %}{{ layout.link_home }}{% endif %}</span>
+        </a>
+        {% endif %}
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-10 col-md-push-1 col-lg-8 col-lg-push-2">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <hr />
+
+      <div class="container">
+        <p class="text-center">
+          <span>&copy; 2015</span>
+          <a href="http://mappingforchange.org.uk" target="_blank">Mapping for Change</a>
+          <span>&bull;</span>
+          <a href="disclaimer.html">{% if layout.link_disclaimer == nil %}Disclaimer{% else %}{{ layout.link_disclaimer }}{% endif %}</a>
+        </p>
+      </div>
+    </footer>
+  </body>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-59585078-3', 'auto');
+    ga('send', 'pageview');
+  </script>
+</html>
