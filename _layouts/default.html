@@ -62,9 +62,9 @@
       <div class="container">
         <h2 class="text-muted">
           {% if layout.title == nil %}
-          Community Maps Help
+            Community Maps Help
           {% else %}
-          {{ layout.title }}
+            {{ layout.title }}
           {% endif %}
         </h2>
 
@@ -78,10 +78,10 @@
 
         {% assign file = page.url | split: '/' | last %}
         {% if file != 'index.html' and file != '404.html' %}
-        <a href="index.html" class="lead" style="text-decoration: none !important">
-          <span class="glyphicon glyphicon-arrow-left"></span>
-          <span>{% if layout.link_home == nil %}Home page{% else %}{{ layout.link_home }}{% endif %}</span>
-        </a>
+          <a href="index.html" class="lead" style="text-decoration: none !important">
+            <span class="glyphicon glyphicon-arrow-left"></span>
+            <span>{% if layout.link_home == nil %}Home page{% else %}{{ layout.link_home }}{% endif %}</span>
+          </a>
         {% endif %}
       </div>
     </header>
