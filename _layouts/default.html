@@ -66,6 +66,21 @@
               <span>Mapping for Change</span>
             </a>
           </li>
+
+          <li class="dropdown">
+            <a role="button" href="#" class="language-toggle" data-toggle="language" aria-haspopup="true" aria-expanded="false">
+              {% if layout.link_language == nil %}
+                Language
+              {% else %}
+                {{ layout.link_language }}
+              {% endif %}
+              <span class="caret"></span>
+            </a>
+
+            <ul class="language-menu">
+              <li><a href="/en/">English</a></li>
+            </ul>
+          </li>
         </ul>
       </div>
     </nav>
