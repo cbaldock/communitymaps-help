@@ -1,41 +1,45 @@
 ---
 layout: italian
-title: "Moderate contributions"
-subtitle: "Once added to the project, contribution can still be edited later on."
+title: "Moderare i contributi"
+subtitle: "Controllare i contributi prima di pubblicarli sulla mappa."
 ---
 
-## Feeling lost?
+## Volevi fare qual'cos altro?
 
-> **&#8629; Let’s head back and** [**find out how to manage contributions**](manage-contributions.html)
-
----
-
-## What can moderators do?
-
-Moderators of a project can have access to all the contributions on it, including pending contributions that are not yet approved and are invisible to regular users. It’s their job to approve them, and to resolve any issues reported.
+> **&#8629;Torniamo alla pagina ** [**gestire i contributi**](manage-contributions.html)
 
 ---
 
-## Approve contributions
+## Che possono fare i moderatori?
 
-If a project’s settings require every contribution to be approved by a moderator, all pending contributions have a notification with a button “Approve contribution”. Moderators can approve contributions by pressing that button. Before or after the approval process, they can edit any data of the contribution.
-
-![Notification message of a pending contribution](/images/it/pending-contribution-notification.png)
-
-Every day a daily digest email is sent to all the moderators and administrators of a project, informing them about new pending contributions, and about any issues reported with the existing ones.
+I moderatori di un progetto hanno accesso a tutti i contributi del progetto, incluso quelli ‘in attesa’ che non sono ancora stati approvati e non sono visibile agli atri utenti.  E il compito dei moderatori controllare ed approvare i contributi ed anche risolvere le segnalazioni. 
 
 ---
 
-## Resolve issues
+## Approvare i contributi
 
-When a contribution has been reported, moderators must resolve the issues and make an action. They can either edit a contribution, or suspend it. Suspended contributions are no longer visible to the public. Only the creator of a contribution can see suspended contributions and fix any issues associated with those contributions.
+Se gli impostazioni di un progetto richiedono che tutti i contributi devono essere controllati da un moderatore, i contributi col stato ‘in attesa’ avranno un bottone con l’opzione ‘Approvare il contributo’.  I moderatori possono approvare i contributi premendo quel bottone.  Possono anche modificare il contributo sia prima che dopo l’approvazione.
 
-![Notification message of a reported contribution](/images/it/reported-contribution-notification.png)
+![Messaggio notificazione - contributo in stato ‘in attesa’](/images/it/pending-contribution-notification.png)
 
-Closed issues are always visible in the comments tab, but can also be deleted as if they are regular comments.
+Una lista dei contributi in stato ‘in attesa’ sarà mandato ai moderatori ogni giorno, informandoli anche dei contributi per cui c'è stato una segnalazione. 
 
 ---
 
-## This is it!
+## Risolvere le segnalazioni
 
-> **&#8627; Let’s go back to** [**the home page**](index.html)
+Quando un contributo e stato segnalato, i moderatori devono risolvere la problema.  E possibile o modificare il contributo, o metterlo in stato ‘sospeso’.  Contributi in stato sospeso non sono disponibili al pubblico - soltanto la persona che ha creato il contributo può vederlo e risolvere la questione.
+
+![Messaggio notificazione - contributo ‘segnalato’](/images/it/reported-contribution-notification.png)
+
+Le segnalazione chiuse sono sempre visibile con gli altri commenti, e possono anche essere rimossi come se fossero commenti normali..
+
+---
+
+## E tutto!
+
+> **&#8627; Torniamo al** [**homepage**](index.html)
+
+
+---
+
