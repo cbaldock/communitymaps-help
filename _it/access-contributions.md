@@ -1,68 +1,70 @@
 ---
 layout: italian
-title: "Access contributions"
-subtitle: "Contributions can be accessed in various different ways: clicking them on the map, choosing one from the list, searching for specific contributions."
+title: "Accedere ai contributi"
+subtitle: "Si può accedere a un contributo in modi diversi: cliccando sulla mappa, scegliendo dalla lista, usando l’opzione cerca."
 ---
 
-## Feeling lost?
+## Volevi fare qual'cos altro?
 
-> **&#8629; Let’s head back and** [**find out what contributions are**](overview-of-contributions.html)
-
----
-
-## Use the map
-
-When the project is loaded, contributions are displayed on the map. We already know that they can be visible either as the shape of a [point](overview-of-contributions.html#points), a [line](overview-of-contributions.html#lines), or an [area](overview-of-contributions.html#areas). Every shape is a hyperlink to that contribution.
-
-An active contribution is highlighted on the map: if it’s a point, it has a hover around it, otherwise the colour of the contribution changes to bright yellow.
-
-![Highlighted contribution on the map](/images/it/highlighted-point.png)
-
-Clicking on a highlighted contribution centres the view. Clicking  anywhere else on the map closes the active contribution and returns to the project. From there, other ways of accessing contributions can be explored.
+> **&#8629;Torniamo alla pagina** [**scoprire cosa sono i contributi**](overview-of-contributions.html)
 
 ---
 
-## Apply filters
+## Usando la mappa
 
-We already know that every contribution belongs to a category, and every category usually has a different icon and colour to separate contributions visually on the map. This is visible on the list of categories.
+Quando e stato scelto un progetto, i contributi sono visibili sulla mappa.  Sappiamo già che possono prendere la forma di un [punto](overview-of-contributions.html#points), una [linea](overview-of-contributions.html#lines), o un’ [area/poligono](overview-of-contributions.html#areas). Tutte le forme permettono un collegamento ipertestuale al contributo corrispondente.
 
-![A list of categories](/images/it/categories-list.png)
+Un contributo attivo viene evidenziato sulla mappa: se e un punto, si vede un cerchio giallo (hover) intorno, altrimenti il colore del contributo diventa un giallo luminoso..
 
-Every category can be checked or unchecked. That’s how contributions on the map are toggled - this is called *filtering by categories*.
+![Contributo evidenziato sulla mappa](/images/it/highlighted-point.png)
 
-Filters can do even more magic. With the same technique of checking and unchecking *statuses*, it is possible to visualise specific contributions, for example only these that are active, or in review. You can also use this to switch between personal and all contributions of a project.
-
-### But what are those "statuses"?
-
-To manage of contributions, we use four statuses:
-
-* ***Active*** - contributions which are visible to everyone who has access to a project.
-* ***Pending*** - contributions with this status can be seen only by moderators of a project or creators of those contributions. Contributions can be pending either when a project’s settings require all newly added contributions to be checked by moderators before allowing them to be accessible, or when an issue has been reported and the moderator has decided to suspend the contribution.
-* ***Review*** - publicly visible contributions but with an issue reported by someone.
-* ***Draft*** - only creators can see unfinished and publicly not yet accessible contributions.
+Quando si clicca su un contributo evidenziato, si sposta automaticamente al centro della mappa.  Cliccando da qualche altra parte sulla mappa si torna al progetto.  .
 
 ---
 
-## Apply subsets
+## Usare i filtri
 
-Subsets are predefined rules for displaying contributions. They, for example, can display only contributions, added during the desired period of time.
+Sappiamo già che ogni contributo appartiene ad una categoria, e che per ogni categoria usiamo un simbolo e/o un colore diverso per distinguerli sulla mappa.  Si può vedere i simboli che corrispondono a ogni categoria sulla lista delle categorie..
 
-If a project has any subsets available, a list of them is displayed next to the search input.
+![Una lista delle categorie](/images/it/categories-list.png)
 
-![A list of subsets](/images/it/subsets-list.png)
+Ogni categoria può essere resa visibile o invisibile (attivato/disattivato) sulla mappa cliccando nell’apposito casella di spunta.  Questo si chiama *filtrare per categoria*.
+
+I filtri possono fare ancora di più. Usando la stessa tecnica si può anche attivare o disattivare contributi a secondo dello stato.  Per esempio, e possibile visualizzare soltanto i contributi che sono attivi o quelli per la quale e stato richiesto una revisione.  Si può anche usare quest’opzione per visualizzare soltanto i tuoi contributi o visualizzare tutti i contributi di un progetto.
+
+### Ma che cosa sono questi “stati”?
+
+Per i contributi, ci sono quattro stati:
+
+* ***Attivo*** - questi contributi sono disponibili a tutti quelli che hanno accesso al progetto.
+* ***In attesa*** - questi contributi sono disponibili soltanto ai moderatori di un progetto o ai contribuenti che li hanno creati.  I contributi sono ‘in attesa’ o quanto l’impostazione del progetto richiede che ogni contributo dev’essere moderato, o quando qualcuno ha fatto una segnalazione ed i moderatori hanno preso la decisione di sospendere il contributo.
+* ***In revisione*** - questi contributi sono disponibili al pubblico, ma qualcuno ha fatto una segnalazione che dev’essere risolto.
+* ***Bozza*** - questi contributi sono visibili  soltanto ai loro creatori, non sono disponibili al pubblico.
 
 ---
 
-## Use a list of contributions and search
+## Applicare i sottoinsiemi (subsets)
 
-Contributions currently visualised on the map are viewed in a list of contributions. They show the display field, category, author of a contribution, also when it was created.
+I sottoinsiemi (subsets) sono liste/scelte predefinite per visualizzare i contribuiti.  Per esempio si può visualizzare soltanto i contributi aggiunti tra una data ed un altra. 
 
-When searching for specific contributions, the found term is highlighted, and only contributions that match the search criteria are displayed on a list (also on the map).
+Se per un progetto esistono i sottoinsiemi predefinite, sono elencati vicino alla casella “ricerca”.
 
-![Searching for specific contributions](/images/it/search-for-contributions.png)
+![Una lista dei sottoinsiemi (subsets)](/images/it/subsets-list.png)
 
 ---
 
-## What’s next?
+## Cercare nella lista dei contributi
 
-> **&#8627; Let’s learn** [**how to add contributions**](add-new-contribution.html)
+I contributi visibili sulla mappa sono elencati nella lista dei contributi.  Questa lista contiene i dettagli dell’ informazione chiave del contributo, la categoria, il contribuente e anche la data in cui e stato contribuito.
+
+Quando si cerca i contributi che corrispondo a un termine specifico, il termine e evidenziato nei risultati, e soltanto i contributi che combaciano ai criteri di ricerca sono elencati sulla lista (e visibili sulla mappa).
+
+![Cercando contributi specifci](/images/it/search-for-contributions.png)
+
+---
+
+## Il tutorial seguente:
+
+> **&#8627; Impariamo** [**come si aggiunge un nuovo contributo**](add-new-contribution.html)
+
+

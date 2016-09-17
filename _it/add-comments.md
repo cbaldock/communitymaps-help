@@ -32,6 +32,6 @@ Quando c'e qualcosa che non va con un contributo, tutti hanno il diritto d'infor
 
 ---
 
-## Prossimo tutorial?
+## Il tutorial seguente:
 
 > **&#8627; Impariamo** [**come gestire i contributi**](manage-contributions.html)
