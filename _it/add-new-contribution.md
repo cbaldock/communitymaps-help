@@ -1,75 +1,78 @@
 ---
 layout: italian
-title: "Add new contribution"
-subtitle: "There are three steps when adding a new contribution; drawing a shape, choosing a category and completing a form."
+title: "Aggiungere un nuovo contributo"
+subtitle: "Per aggiungere un nuovo contributo ci sono tre fasi: disegnare la forma, selezionare una categoria, completare la scheda."
 ---
 
-## Feeling lost?
+## Volevi fare qual'cos altro?
 
-> **&#8629; Let’s head back and** [**find out how to access contributions**](access-contributions.html)
-
----
-
-## Can I contribute?
-
-If project’s settings allow it, every person accessing it can be a contributor. Sometimes administrators of a project can restrict contributing either to registered users or only to some specific users.
+> **&#8629;Torniamo alla pagina**
+ [**scoprire come visualizzare i contributi**](access-contributions.html)
 
 ---
 
-## Let's contribute!
+## Posso aggiungere un contribuo?
 
-### Step 1: Drawing a shape
+Di solito, se e permesso dalle impostazioni di un progetto, tutti possono contribuire. Pero gli amministratori possono anche scegliere di permettere contributi soltanto da utenti nominati.
 
-The first step when adding a new contribution is to draw the shape of it on the map: it can either be a [point](#points), a [line](#lines), or an [area](#areas) - whichever best represents current information. Only one shape can be drawn for each contribution.
+---
 
-Please note that the drawn shape **can** be changed and edited once a contribution has been added to the project.
+## Contribuiamo!
 
-#### Points
+### Fase 1: Disegnando la forma
 
-Points are used for mapping single spots, such as bus stops or monuments. They are placed with a single mouse click anywhere on the map.
+La prima cosa da fare quando si aggiunge un nuovo contributo e di disegnarne la forma sulla mappa:  può essere un [punto](#points), una [linea](#lines) o un’[area (poligono)](#areas) - selezioni la forma che meglio raprezenta il contributo.  E possibile disegnare soltanto una forma per ogni contributo. 
 
-![Placing a point on the map](/images/it/placing-a-point.png)
+La forma può anche essere cambiata successivamente, quando il contributo e già stato aggiunto al progetto. 
+#### Punti
 
-#### Lines
+Si usano i punti per rappresentare locali o cose piccoli - per esempio una fermata autobus o un monumento.  Si piazzano con un singolo clic del mouse sulla mappa.
 
-Lines are used for mapping paths, roads, etc. They are drawn by adding points alongside the path, and finished with a mouse click on the last point. Points are connected together automatically to form a single line.
+![Piazzando un punto sulla mappa](/images/it/placing-a-point.png)
 
-![Drawing a line on the map](/images/it/drawing-a-line.png)
+#### Linee
 
-#### Areas
+Si usano le linee per rappresentare i percorsi, le strade, i muri etc.  Per creare una linea clicca sulla mappa per create una serie di punti che rappresenta la linea, finendo con un clic sull’ultimo punto.  I punti verranno connessi dal sistema per creare la linea. 
 
-Areas are used for mapping bigger objects, such as buildings, parks, lakes. They are drawn by adding points around an object, and finished with a mouse click on the first point. Points are connected together automatically and the object is filled in with a colour to form an area.
+![Piazzando una linea sulla mappa](/images/it/drawing-a-line.png)
 
-![Drawing an area on the map](/images/it/drawing-an-area.png)
+#### Forme/area/poligoni
 
-### Step 2: Choosing a category
+Si usano le area per rappresentare oggetti più grandi - per esempio edifici, parche, zone, distretti, laghi. Per creare un area, clicca sulla mappa per aggiungere una serie di punti, cliccando ancora sul primo punto per finire.  I punti verranno connessi dal sistema per creare l’area, che poi verra colorato. 
 
-We already know that every contribution belongs to a category, so the second step is to choose one for a new contribution. The list of categories shows all active categories that can be used and how many fields have been added to each category.
+![Piazzando un area sulla mappa](/images/it/drawing-an-area.png)
 
-![Choosing a category for new contribution](/images/it/contributing-choosing-a-category.png)
+### Fase 2: Scegliendo una categoria
 
-When a category is selected, all the fields of that category are loaded to the form.
+Sappiamo già che ogni contributo e associato ad una categoria, e quindi per la seconda fase si deve sceglierne una per il nuovo contributo.  La lista delle categorie elenca ogni categoria che si può usare per il progetto, e per ogni categoria quanti caselli ci sono da riempire nel modulo corrispondente. 
 
-Please note that the chosen category **cannot** be changed once a contribution has been added to the project.
+![Sciegliendo una categoria per il nuovo contributo](/images/it/contributing-choosing-a-category.png)
 
-### Step 3: Completing a form
+Quando selezioni una categoria, tutti i caselli diventano visibili sul modulo..
 
-On the last step, a form must be filled in.
+Nota che **non si può cambiare la categoria** di un contributo.
 
-All the required fields can *only* be left empty if a contribution is saved as a draft. Otherwise a notification is displayed and the required field is highlighted.
+### Fase 3: Completando il modulo
 
-![Required fields of a category](/images/it/contributing-required-fields.png)
+Per quest’ultima fase, si deve compilare il modulo..
 
-There can be different fields on a form: text field, number field, single lookup and multiple lookup fields, also date and time fields. Appropriate information *must be* provided for each field, otherwise a notification is displayed and the field is highlighted.
+E possibile lasciare vuoto le caselle obbligatorie soltanto se il contributo e in stato di bozza.  In altri casi, ci sarà un messaggio errore e le caselle in cui manca l’informazione verranno evidenziate..
 
-![Invalid fields of a category](/images/it/contributing-invalid-fields.png)
+![Caselle obbligatorie](/images/it/contributing-required-fields.png)
+
+Ci sono diversi tipi di caselle in un modulo: testo, numero, lista (selezionare una voce), lista (selezionare più voci), data e tempo.  Soltanto l’informazione del tipo richiesto dev’essere compilato nella casella, altrimenti ci sarà messaggio errore e la casella verrà evidenziata. 
+
+![Caselle con errore](/images/it/contributing-invalid-fields.png)
 
 Anonymous users can only add contributions to the project, but registered users are allowed to save it as a draft. Draft contributions can be finished and added to the project later.
 
-Please note that media files **can** be added either during the contributing process or when the contribution has been added to the project.
+Si può aggiungere i file multimediali al contributo o a questo punto o in seguito, quando il contributo e già stato aggiunto al progetto. 
 
 ---
 
-## What’s next?
+## Il tutorial seguente:
 
-> **&#8627; Let’s learn** [**how to upload media files to your contributions**](upload-media-files.html)
+> **&#8627; Impariamo**
+ [**come aggiungere i file multimediali ai contributi**](upload-media-files.html)
+
+
