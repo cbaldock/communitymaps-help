@@ -51,6 +51,6 @@ Il processo che si usa per disegnare un’area e molto simile a quello per una l
 
 ## Il tutorial seguente:
 
-> **&#8627; Impariamo** [**come accedere ai contributi**](access-contributions.html)
+> **&#8627; Impariamo**[**come accedere ai contributi**](access-contributions.html)
 
 

@@ -1,47 +1,49 @@
 ---
 layout: italian
-title: "Manage contributions"
-subtitle: "Once added to the project, contribution can still be edited later on."
+title: "Gestire i contributi"
+subtitle: "I contributi possono essere modificati anche Once added to the project, contribution can still be edited later on."
 ---
 
-## Feeling lost?
+## Volevi fare qual'cos altro?
 
-> **&#8629; Let’s head back and** [**find out how to add comments**](add-comments.html)
-
----
-
-## Edit contribution
-
-You can edit your own contributions (or all contributions, if you’re a moderator of the project), at any time.
-
-![Added contribution to the project](/images/it/added-contribution.png)
-
-When editing a contribution, you can change its shape, move its location, and change, add or remove all its text information. The selected category cannot be changed and always stays the same.
+> **&#8629;Torniamo alla pagina** [**aggiungere i commenti**](add-comments.html)
 
 ---
 
-## Delete contribution
+## Modificare un contributo
 
-Deletion of personal contributions is also available.
+Puoi modificare i tuoi contributi (o tutti i contributi di un progetto, se sei un moderatore) quando volete.
 
-![Confirmation message for deleting a contribution](/images/it/delete-contribution-confirmation.png)
+![Nuovo contributo](/images/it/added-contribution.png)
 
-Once deleted, contributions **cannot** be recovered. All media files and comments associated with each contribution are deleted too.
-
----
-
-## Delete media files
-
-Every added picture or video can be deleted by the creator of a contribution, or moderator of the whole project.
+Quando fai una modifica, si può cambiare la forma di un contributo, spostarlo in qualche altro luogo, cambiare, aggiungere o rimuovere i data.  La categoria del contributo non può essere cambiata. 
 
 ---
 
-## Delete comments
+## Rimuovere un contributo
 
-Every comment can be deleted. You can delete either your personal comments from any contribution, or any comment from your contributions. Comments that have reports in their hierarchy cannot be deleted while the issue is not closed.
+Puoi anche rimuovere i tuoi contributi.
+
+![Messaggio conferma  - rimuovere un contributo](/images/it/delete-contribution-confirmation.png)
+
+Una volta rimossa un contributo, non si può tornare in dietro.  Sono rimossi anche i file multimediali ed i commenti del contributo.
 
 ---
 
-## What’s next?
+## Rimuovere i file multimediali
 
-> **&#8627; Let’s learn** [**how to moderate contributions**](moderate-contributions.html)
+Tutti i file multimediali (immagini, video, audio) possono essere rimossi dalla persona che a creato il contributo, o dal moderatore del progetto.
+
+---
+
+## Rimuovere i commenti
+
+Puoi rimuovere i tuoi commenti da qualunque contributo, e puoi anche rimuovere qualunque commento dai tuoi contributi.  Commenti per cui e stato fatto una segnalazione non possono essere rimossi fino a che la segnalazione non e stato risolto.
+
+---
+
+## Il tutorial seguente:
+
+> **&#8627; Impariamo** [**come moderare i contributi**](moderate-contributions.html)
+
+
