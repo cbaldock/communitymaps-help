@@ -1,19 +1,19 @@
 ---
 layout: italian
-title: "Learn and improve"
-subtitle: "Participatory mapping with our platform has never been so easy."
+title: "Imparare e migliorare"
+subtitle: "Mappatura partecipativa con la nostra piattaforma non è mai stato così facile."
 ---
 
-## Contributions
+## Contenuto
 
-> * [Overview of contributions](overview-of-contributions.html)
-> * [Access contributions](access-contributions.html)
-> * [Add new contribution](add-new-contribution.html)
-> * [Upload media files](upload-media-files.html)
-> * [Add comments](add-comments.html)
-> * [Manage contributions](manage-contributions.html)
-> * [Moderate contributions](moderate-contributions.html)
+> * [Che cosa sono i contributi](overview-of-contributions.html)
+> * [Accedere ai contributi](access-contributions.html)
+> * [Aggiungere un nuovo contributo](add-new-contribution.html)
+> * [Caricare i file multimediali](upload-media-files.html)
+> * [Aggiungere i commenti](add-comments.html)
+> * [Gestire i contributi](manage-contributions.html)
+> * [Moderare i contributi](moderate-contributions.html)
 
-## Other assistance
+## Ulteriori informazioni
 
-If you require any additional information on how to use Community Maps participatory mapping platform, please don’t hesitate to contact us at [help@communitymaps.org.uk](mailto:help@communitymaps.org.uk).
+Se avete bisogno di ulteriori informazioni su come utilizzare Community Maps - la piattaforma di mappatura partecipativa, non esitate a contattarci al [help@communitymaps.org.uk] (mailto: help@communitymaps.org.uk).
