@@ -1,53 +1,56 @@
 ---
 layout: italian
-title: "Overview of contributions"
-subtitle: "Every contribution added to the map contains some data: text information, media files, comments."
+title: "Che cosa sono i contributi?"
+subtitle: "Tutti i contributi contengono informazione/dati - testo, file multimediali, commenti."
 ---
 
-## What are contributions?
+## Che cosa sono i contributi?
 
-Each project has categories, and every category has contributions which have been added to that project. Again, each contribution can contain text information, images, audio and videos files, comments.
+Ogni progetto contiene una o piu categorie, e ogni categoria contiene i contributi che sono stati aggiunti al progetto.  Il contributo consiste di (e composto da) testo, immagini, audio, video e commenti.
 
-Contributions are added by contributors of a project. If project’s settings allow it, every person accessing that project can be a contributor.
+I contributori ad un progetto sono quelli che aggiungono i contributi.  Se e permesso dalle impostazioni del progetto, tutti quelli che accedono al progetto possono essere contributori..
 
-> * [Find out how to add contributions](add-new-contribution.html)
-> * [Find out how to upload images and videos to your contributions](upload-media-files.html)
-> * [Find out how to add comments to any contributions](add-comments.html)
+> * [Scopri come si aggiunge un nuovo contributo](add-new-contribution.html)
+> * [Scopri come si carica un immagine o un video per un contributo](upload-media-files.html)
+> * [Scopri come si aggiunge un commento ad un contributo](add-comments.html)
 
 ---
 
-## What do they look like?
+## In cosa consiste un contributo?
 
-Added contributions can be visible on the map: either as the shape of an [area](#areas), a [line](#lines), or a simple [point](#points).
+Si può visualizzare i contributi sulla mappa, e prendono la forma di un [area (poligono)], una [linea](#lines), o un [punto](#points).
 
-### Points
+### Punti
 
-Points are used for mapping single spots on the map; They are visualised as markers and are the same colour as the category used. They can also have an optional icon.
+Si usano i punti per rappresentare locali o cose piccoli - per esempio una fermata autobus o un monumento.  Apparano sulla mappa come simboli piccoli colorati con lo stesso colore del corrispondente categoria, o con un icono. 
 
-![One point on the map](/images/it/contribution-point.png)
+![Un punto sulla mappa](/images/it/contribution-point.png)
 
-When there are too many points next to each other, they are grouped into *clusters*. A number on each cluster indicates how many points are grouped together. As you zoom out, points are assigned to fewer clusters. When you zoom in, more clusters appear.
+Quando ci sono troppi punti nella stessa vicinanza, vengono raggruppati (in un *cluster*). Con ogni cluster c'è associato un numero che indica quanti punti ci sono nel cluster.  Facendo *zoom out* (diminuire la scala della mappa) il numero di cluster diventa meno.  Facendo *zoom in* (ingrandire la scala della mappa) il numero di cluster aumenta.
 
-![Clusters of several points each](/images/it/clusters.png)
+![I cluster, raggruppando più punti](/images/it/clusters.png)
 
 ### Lines
 
-Lines are used for mapping paths, roads, etc. When visualised, they appear as the colour of their selected category.
+Si usano le linee per rappresentare i percorsi, le strade, i muri etc. Apparano sulla mappa nel colore della loro categoria. 
 
-![One line on the map](/images/it/contribution-line.png)
+![Una linea sulla mappa](/images/it/contribution-line.png)
 
-When drawing a line on a map, points are added alongside the path. Those points are then connected together to form a single line. The shape is finished with a mouse click on a last point.
+Per creare una linea clicca sulla mappa per create una serie di punti che rappresenta la linea, finendo con un clic sull’ultimo punto.  I punti verranno connessi dal sistema per creare la linea. 
 
-### Areas
 
-For mapping bigger objects on the map, areas are used. When visualised, they also appear as the colour of their selected category.
+### Aree/poligoni
 
-![An area on the map](/images/it/contribution-area.png)
+Si usano le aree per la mappatura di oggetti più grandi. Apparano sulla mappa nel colore della loro categorie.
 
-Drawing an area is very similar to line. The only difference is that the last point of the shape is the first point added. Also areas have backgrounds with the same colour as category chosen.
+![Un’ area sulla mappa](/images/it/contribution-area.png)
+
+Il processo che si usa per disegnare un’area e molto simile a quello per una linea.  L’unico differenza e che per completare/chiudere l’area si deve cliccare ancora sul primo punto. 
 
 ---
 
-## What’s next?
+## Il tutorial seguente:
 
-> **&#8627; Let’s learn** [**how to access contributions**](access-contributions.html)
+> **&#8627; Impariamo** [**come accedere ai contributi**](access-contributions.html)
+
+
