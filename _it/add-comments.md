@@ -1,37 +1,37 @@
 ---
 layout: italian
-title: "Add comments"
-subtitle: "Every contribution can be discussed about using internal commenting section."
+title: "Aggiungere i commenti"
+subtitle: "Ogni contributo può essere discusso usando l'opzione commenti.."
 ---
 
-## Feeling lost?
+## Volevi fare qual'cos altro?
 
-> **&#8629; Let’s head back and** [**find out how to upload media files**](upload-media-files.html)
-
----
-
-## Let's start discussing!
-
-Each contribution has a comments section where everyone can discuss it. Comments are hierarchical, and they are represented with different colours:
-
-* ***Green*** - your personal comments.
-* ***Blue*** - parent comment of a hierarchy (unless the comment is yours).
-* ***Yellow*** - responds to comments.
-
-![A list of comments for contribution](/images/it/list-of-comments.png)
-
-There are also ***orange*** comments. They indicate reports.
+> **&#8629; Torniamo alla pagina** [**scoprire come aggiungere i file multimediali**](upload-media-files.html)
 
 ---
 
-## What are reports?
+## Comminciamo la discussione!
 
-When something is not right with a contribution, everyone has the right to inform administrators and moderators of the project about the issues. Contributions are still visible to the public, but can be suspended until all the issues have been resolved.
+Per ogni contributo c'e' una sezione commenti che permette a tutti di partecipare nella discussione. I commenti sono gerarchici, e sono rappresentati con colori diversi:
 
-![Reporting contribution](/images/it/reporting-contribution.png)
+* ***Verde*** - i commenti che hai aggiunto tu.
+* ***Blu*** - il commento originale/il primo commento (se non e' un tuo commento) .
+* ***Giallo*** - le risposte degli altri.
+
+![Una lista dei commenti per un contributo](/images/it/list-of-comments.png)
+
+I commenti in ***arancia*** indicano segnalazioni.
+---
+
+## Che cosa sono le segnalazioni?
+
+
+Quando c'e qualcosa che non va con un contributo, tutti hanno il diritto d'informare gli amministratori e moderatori del progetto al riguardo. I contributi sono sempre visibile al pubblico ma possono essere sospesi fino a che i problemi non sono stati risolti. 
+
+![Fare una segnalazione](/images/it/reporting-contribution.png)
 
 ---
 
-## What’s next?
+## Prossimo tutorial?
 
-> **&#8627; Let’s learn** [**how to manage contributions**](manage-contributions.html)
+> **&#8627; Impariamo** [**come gestire i contributi**](manage-contributions.html)
