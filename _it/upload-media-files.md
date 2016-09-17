@@ -1,49 +1,51 @@
 ---
 layout: italian
-title: "Upload media files"
-subtitle: "High resolution pictures and videos, also audio files can be attached for public viewing to every contribution you have created."
+title: "Caricare i file multimediali"
+subtitle: "Immagini ad alta risoluzione, video, anche i file audio possono essere collegati ad ogni contributo."
 ---
 
-## Feeling lost?
+## Volevi fare qual'cos altro?
 
-> **&#8629; Let’s head back and** [**find out how to add contributions**](add-new-contribution.html)
-
----
-
-## What can be uploaded?
-
-Every contribution can have pictures, videos, also audio files attached to it. They can be viewed by anyone who has access to contributions, but only the creator of that contribution and moderators can add new media.
-
-This additional data can be uploaded either while adding a new contribution, or when the contribution has already been added to the project. Also, any media can be removed from the contribution.
+> **&#8629;Torniamo alla pagina** [**aggiungere un nuovo contributo**](add-new-contribution.html)
 
 ---
 
-## Let's upload!
+## Che cosa può essere caricato?
 
-Multiple media files can be selected either manually, or by dragging and dropping them on the drop area.
+Per ogni contributo si può associare immagini, video e file audio.  Questi sono disponibili a tutti quelli che hanno il permesso di vedere il contributo.  Pero, soltanto la persona che ha creato il contributo o i moderatori possono associare i file multimediali ad un contributo.
 
-Before the file is uploaded to our servers, it is added to a list of new files. You can change the name of a file, and add an optional description. Each file can then be uploaded individually or all together.
-
-![Uploading media files](/images/it/uploading-media-files.png)
-
-### Pictures
-
-Uploaded pictures appear on the list of media files straight away. They can be viewed when accessing the contribution’s media tab.
-
-![A list of pictures attached to contribution](/images/it/list-of-pictures.png)
-
-The creator of a contribution or moderator of the whole project can delete uploaded pictures at any time. Once deleted, pictures cannot be recovered.
-
-### Videos
-
-Videos take time to process. Even though they are visible on the list of media files together with uploaded pictures, they are not accessible straight away.
-
-### Audio files
-
-All audio files are available to play straight away. However, *3gpp* and *3gpp2* are converted to *mp3* format due to browser compatibility.
+Questi file multimediali si possono aggiungere o quando stai creando un contributo o in un tempo successivo.  Si può anche rimuovere un file da un contributo.
 
 ---
 
-## What’s next?
+## Come si fa?
 
-> **&#8627; Let’s learn** [**how to add comments to contributions**](add-comments.html)
+Seleziona uno o piu file multimediale o manualmente o trascinandoli nella zona calo.
+
+Prima che il file viene caricato, viene aggiunto ad una lista di file nuovi.  Si puo cambiare il nome del file, ed aggiungere una descrizione del contenuto.  I file possono essere caricati o uno ad uno o tutti insieme. 
+
+![Caricare i file multimediali](/images/it/uploading-media-files.png)
+
+### Immagini
+
+Le immagini caricati compaiano subito sulla lista di file multimediali.  Per vederli, clicca sul tab multimedia del contributo.
+
+![Una lista degli immagini congiunti ad un contributo](/images/it/list-of-pictures.png)
+
+Il contributore di un contributo, o il moderatore, possono rimuovere e cancellare le immagini.  Una volta cancellati, non sara possible ricuperare i file. 
+
+### Video
+
+Per i file video, ci vuole un po di tempo dopo per processarli.  Anche se sono elencati nella lista dei file multimediali di un contributo, si deve aspettare un po’ prima di accederli. .
+
+### Audio
+
+Si puo ascolare subito i file audio.  Pero, file *3gpp* and *3gpp2* saranno convertiti in formato *mp3* per renderli compatibili con i browser.
+
+---
+
+## Il tutorial seguente:
+
+> **&#8627; Impariamo** [**come aggiungere i commenti ai contributi**](add-comments.html)
+
+
