@@ -64,7 +64,7 @@ Ci sono diversi tipi di caselle in un modulo: testo, numero, lista (selezionare 
 
 ![Caselle con errore](/images/it/contributing-invalid-fields.png)
 
-Anonymous users can only add contributions to the project, but registered users are allowed to save it as a draft. Draft contributions can be finished and added to the project later.
+Anche se l'impostazione di un progetto consente agli utenti anonimi di contributire i data, questi non possono salvare i data in stato di bozza - quello lo possono fare solo gli utenti registrati e loggati.  Contributi in stato di bozza possono essere completati in un tempo seguente.
 
 Si può aggiungere i file multimediali al contributo o a questo punto o in seguito, quando il contributo e già stato aggiunto al progetto. 
 
