@@ -34,7 +34,7 @@ Filters can do even more magic. With the same technique of checking and unchecki
 
 ### But what are those "statuses"?
 
-To manage of contributions, we use four statuses:
+To manage the contributions, we use four statuses:
 
 * ***Active*** - contributions which are visible to everyone who has access to a project.
 * ***Pending*** - contributions with this status can be seen only by moderators of a project or creators of those contributions. Contributions can be pending either when a project’s settings require all newly added contributions to be checked by moderators before allowing them to be accessible, or when an issue has been reported and the moderator has decided to suspend the contribution.
