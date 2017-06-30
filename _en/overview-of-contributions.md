@@ -44,7 +44,7 @@ For mapping bigger objects on the map, areas are used. When visualised, they als
 
 ![An area on the map](/images/en/contribution-area.png)
 
-Drawing an area is very similar to line. The only difference is that the last point of the shape is the first point added. Also areas have backgrounds with the same colour as category chosen.
+Drawing an area is very similar to drawing a line. The only difference is that the last point of the shape is the first point added. Also areas have backgrounds with the same colour as category chosen.
 
 ---
 
