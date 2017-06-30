@@ -12,7 +12,7 @@ subtitle: "There are three steps when adding a new contribution; drawing a shape
 
 ## Can I contribute?
 
-If project’s settings allow it, every person accessing it can be a contributor. Sometimes administrators of a project can restrict contributing either to registered users or only to some specific users.
+If the project’s settings allow it, every person accessing it can be a contributor. Sometimes administrators of a project can restrict contributing either to registered users or only to some specific users.
 
 ---
 
