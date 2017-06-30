@@ -8,7 +8,7 @@ subtitle: "Every contribution added to the map contains some data: text informat
 
 Each project has categories, and every category has contributions which have been added to that project. Again, each contribution can contain text information, images, audio and videos files, comments.
 
-Contributions are added by contributors of a project. If project’s settings allow it, every person accessing that project can be a contributor.
+Contributions are added by contributors of a project. If the project’s settings allow it, every person accessing that project can be a contributor.
 
 > * [Find out how to add contributions](add-new-contribution.html)
 > * [Find out how to upload images and videos to your contributions](upload-media-files.html)
