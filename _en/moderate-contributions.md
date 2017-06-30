@@ -36,6 +36,6 @@ Closed issues are always visible in the comments tab, but can also be deleted as
 
 ---
 
-## This is it!
+## That is it!
 
 > **&#8627; Let’s go back to** [**the home page**](index.html)
